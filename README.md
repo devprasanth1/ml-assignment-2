@@ -73,5 +73,3 @@ python -m streamlit run app.py
 ```
 
 Open the local app at `http://localhost:8501`. The saved models are in `model/`, the full dataset is in `data/uci_digits.csv`, and the test data is in `test_data.csv`.
-
-**Dataset reference:** Alpaydin, E., and Kaynak, C. (1998). *Optical Recognition of Handwritten Digits*. UCI Machine Learning Repository. https://doi.org/10.24432/C50P49
