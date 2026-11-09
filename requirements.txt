@@ -1,0 +1,12 @@
+# DigitScope Streamlit deployment dependencies
+# Target Python: 3.11 or 3.12
+# IMPORTANT: Set scikit-learn to the version used to save your model/*.joblib files.
+# The original downloaded project was built with scikit-learn 1.8.0.
+streamlit>=1.40,<2.0
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.8.0
+joblib==1.5.3
+matplotlib==3.9.2
+pyarrow==17.0.0
+threadpoolctl>=3.5,<4

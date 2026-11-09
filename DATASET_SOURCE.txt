@@ -1,0 +1,8 @@
+Dataset: Optical Recognition of Handwritten Digits (UCI)
+Project uses the 1,797-row, 64-feature subset bundled with scikit-learn.
+This is specifically a copy of the TEST SET of the original UCI digits database,
+not the complete original UCI dataset; do not report the subset as all UCI rows.
+Official UCI reference: https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits
+scikit-learn loader documentation: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
+Data has 10 labels (0-9), numeric pixel counts 0..16, 64 input features.
+Data export into data/uci_digits.csv is done using sklearn.datasets.load_digits.
