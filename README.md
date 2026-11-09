@@ -1,4 +1,4 @@
-# DigitScope: Handwritten Digit Classification
+
 
 DigitScope compares five machine learning algorithms for recognizing handwritten digits from numerical pixel data. The project includes model evaluation in Jupyter Notebook and a Streamlit application that displays predictions and performance on labeled test data.
 
